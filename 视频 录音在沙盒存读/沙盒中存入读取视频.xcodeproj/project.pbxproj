@@ -1,0 +1,437 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		4365C2B41C08023D00390EAD /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 4365C2B31C08023D00390EAD /* main.m */; };
+		4365C2B71C08023D00390EAD /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 4365C2B61C08023D00390EAD /* AppDelegate.m */; };
+		4365C2BA1C08023D00390EAD /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4365C2B91C08023D00390EAD /* ViewController.m */; };
+		4365C2BD1C08023D00390EAD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4365C2BB1C08023D00390EAD /* Main.storyboard */; };
+		4365C2BF1C08023D00390EAD /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4365C2BE1C08023D00390EAD /* Images.xcassets */; };
+		4365C2C21C08023D00390EAD /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 4365C2C01C08023D00390EAD /* LaunchScreen.xib */; };
+		4365C2CE1C08023D00390EAD /* _________Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = 4365C2CD1C08023D00390EAD /* _________Tests.m */; };
+		4365C2D81C08046900390EAD /* 被移除的十件神器 还记得杀人甲吗？_lol视频_虎牙视频_1.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 4365C2D71C08046900390EAD /* 被移除的十件神器 还记得杀人甲吗？_lol视频_虎牙视频_1.mp4 */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		4365C2C81C08023D00390EAD /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 4365C2A61C08023D00390EAD /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 4365C2AD1C08023D00390EAD;
+			remoteInfo = "沙盒中存入读取视频";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		4365C2AE1C08023D00390EAD /* 沙盒中存入读取视频.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "沙盒中存入读取视频.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		4365C2B21C08023D00390EAD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4365C2B31C08023D00390EAD /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		4365C2B51C08023D00390EAD /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		4365C2B61C08023D00390EAD /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		4365C2B81C08023D00390EAD /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		4365C2B91C08023D00390EAD /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		4365C2BC1C08023D00390EAD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		4365C2BE1C08023D00390EAD /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		4365C2C11C08023D00390EAD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
+		4365C2C71C08023D00390EAD /* 沙盒中存入读取视频Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "沙盒中存入读取视频Tests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		4365C2CC1C08023D00390EAD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4365C2CD1C08023D00390EAD /* _________Tests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "_________Tests.m"; sourceTree = "<group>"; };
+		4365C2D71C08046900390EAD /* 被移除的十件神器 还记得杀人甲吗？_lol视频_虎牙视频_1.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "被移除的十件神器 还记得杀人甲吗？_lol视频_虎牙视频_1.mp4"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		4365C2AB1C08023D00390EAD /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		4365C2C41C08023D00390EAD /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		4365C2A51C08023D00390EAD = {
+			isa = PBXGroup;
+			children = (
+				4365C2D71C08046900390EAD /* 被移除的十件神器 还记得杀人甲吗？_lol视频_虎牙视频_1.mp4 */,
+				4365C2B01C08023D00390EAD /* 沙盒中存入读取视频 */,
+				4365C2CA1C08023D00390EAD /* 沙盒中存入读取视频Tests */,
+				4365C2AF1C08023D00390EAD /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		4365C2AF1C08023D00390EAD /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				4365C2AE1C08023D00390EAD /* 沙盒中存入读取视频.app */,
+				4365C2C71C08023D00390EAD /* 沙盒中存入读取视频Tests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		4365C2B01C08023D00390EAD /* 沙盒中存入读取视频 */ = {
+			isa = PBXGroup;
+			children = (
+				4365C2B51C08023D00390EAD /* AppDelegate.h */,
+				4365C2B61C08023D00390EAD /* AppDelegate.m */,
+				4365C2B81C08023D00390EAD /* ViewController.h */,
+				4365C2B91C08023D00390EAD /* ViewController.m */,
+				4365C2BB1C08023D00390EAD /* Main.storyboard */,
+				4365C2BE1C08023D00390EAD /* Images.xcassets */,
+				4365C2C01C08023D00390EAD /* LaunchScreen.xib */,
+				4365C2B11C08023D00390EAD /* Supporting Files */,
+			);
+			path = "沙盒中存入读取视频";
+			sourceTree = "<group>";
+		};
+		4365C2B11C08023D00390EAD /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				4365C2B21C08023D00390EAD /* Info.plist */,
+				4365C2B31C08023D00390EAD /* main.m */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		4365C2CA1C08023D00390EAD /* 沙盒中存入读取视频Tests */ = {
+			isa = PBXGroup;
+			children = (
+				4365C2CD1C08023D00390EAD /* _________Tests.m */,
+				4365C2CB1C08023D00390EAD /* Supporting Files */,
+			);
+			path = "沙盒中存入读取视频Tests";
+			sourceTree = "<group>";
+		};
+		4365C2CB1C08023D00390EAD /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				4365C2CC1C08023D00390EAD /* Info.plist */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		4365C2AD1C08023D00390EAD /* 沙盒中存入读取视频 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 4365C2D11C08023D00390EAD /* Build configuration list for PBXNativeTarget "沙盒中存入读取视频" */;
+			buildPhases = (
+				4365C2AA1C08023D00390EAD /* Sources */,
+				4365C2AB1C08023D00390EAD /* Frameworks */,
+				4365C2AC1C08023D00390EAD /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "沙盒中存入读取视频";
+			productName = "沙盒中存入读取视频";
+			productReference = 4365C2AE1C08023D00390EAD /* 沙盒中存入读取视频.app */;
+			productType = "com.apple.product-type.application";
+		};
+		4365C2C61C08023D00390EAD /* 沙盒中存入读取视频Tests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 4365C2D41C08023D00390EAD /* Build configuration list for PBXNativeTarget "沙盒中存入读取视频Tests" */;
+			buildPhases = (
+				4365C2C31C08023D00390EAD /* Sources */,
+				4365C2C41C08023D00390EAD /* Frameworks */,
+				4365C2C51C08023D00390EAD /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				4365C2C91C08023D00390EAD /* PBXTargetDependency */,
+			);
+			name = "沙盒中存入读取视频Tests";
+			productName = "沙盒中存入读取视频Tests";
+			productReference = 4365C2C71C08023D00390EAD /* 沙盒中存入读取视频Tests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		4365C2A61C08023D00390EAD /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0640;
+				ORGANIZATIONNAME = "张豪";
+				TargetAttributes = {
+					4365C2AD1C08023D00390EAD = {
+						CreatedOnToolsVersion = 6.4;
+					};
+					4365C2C61C08023D00390EAD = {
+						CreatedOnToolsVersion = 6.4;
+						TestTargetID = 4365C2AD1C08023D00390EAD;
+					};
+				};
+			};
+			buildConfigurationList = 4365C2A91C08023D00390EAD /* Build configuration list for PBXProject "沙盒中存入读取视频" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 4365C2A51C08023D00390EAD;
+			productRefGroup = 4365C2AF1C08023D00390EAD /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				4365C2AD1C08023D00390EAD /* 沙盒中存入读取视频 */,
+				4365C2C61C08023D00390EAD /* 沙盒中存入读取视频Tests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		4365C2AC1C08023D00390EAD /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				4365C2BD1C08023D00390EAD /* Main.storyboard in Resources */,
+				4365C2C21C08023D00390EAD /* LaunchScreen.xib in Resources */,
+				4365C2BF1C08023D00390EAD /* Images.xcassets in Resources */,
+				4365C2D81C08046900390EAD /* 被移除的十件神器 还记得杀人甲吗？_lol视频_虎牙视频_1.mp4 in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		4365C2C51C08023D00390EAD /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		4365C2AA1C08023D00390EAD /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				4365C2BA1C08023D00390EAD /* ViewController.m in Sources */,
+				4365C2B71C08023D00390EAD /* AppDelegate.m in Sources */,
+				4365C2B41C08023D00390EAD /* main.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		4365C2C31C08023D00390EAD /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				4365C2CE1C08023D00390EAD /* _________Tests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		4365C2C91C08023D00390EAD /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 4365C2AD1C08023D00390EAD /* 沙盒中存入读取视频 */;
+			targetProxy = 4365C2C81C08023D00390EAD /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		4365C2BB1C08023D00390EAD /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				4365C2BC1C08023D00390EAD /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		4365C2C01C08023D00390EAD /* LaunchScreen.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				4365C2C11C08023D00390EAD /* Base */,
+			);
+			name = LaunchScreen.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		4365C2CF1C08023D00390EAD /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.4;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		4365C2D01C08023D00390EAD /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.4;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		4365C2D21C08023D00390EAD /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = "沙盒中存入读取视频/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		4365C2D31C08023D00390EAD /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = "沙盒中存入读取视频/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		4365C2D51C08023D00390EAD /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+				);
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = "沙盒中存入读取视频Tests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/沙盒中存入读取视频.app/沙盒中存入读取视频";
+			};
+			name = Debug;
+		};
+		4365C2D61C08023D00390EAD /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = "沙盒中存入读取视频Tests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/沙盒中存入读取视频.app/沙盒中存入读取视频";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		4365C2A91C08023D00390EAD /* Build configuration list for PBXProject "沙盒中存入读取视频" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				4365C2CF1C08023D00390EAD /* Debug */,
+				4365C2D01C08023D00390EAD /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		4365C2D11C08023D00390EAD /* Build configuration list for PBXNativeTarget "沙盒中存入读取视频" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				4365C2D21C08023D00390EAD /* Debug */,
+				4365C2D31C08023D00390EAD /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		4365C2D41C08023D00390EAD /* Build configuration list for PBXNativeTarget "沙盒中存入读取视频Tests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				4365C2D51C08023D00390EAD /* Debug */,
+				4365C2D61C08023D00390EAD /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 4365C2A61C08023D00390EAD /* Project object */;
+}
