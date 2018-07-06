@@ -39,6 +39,7 @@
     NSLog(@"\nlibrary的目录是----%@\n\n\n", arr2Path);
     
     
+    
     // Caches目录，在Library下面
     NSArray *arr3 = NSSearchPathForDirectoriesInDomains(NSCachesDirectory, NSUserDomainMask, YES);
     NSString *arr3Path = [arr3 objectAtIndex:0];
